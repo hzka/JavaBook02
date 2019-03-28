@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402df35b-926d-4e20-a311-c1d4e6ab776a" name="Default Changelist" comment="" />
+    <list default="true" id="9986839a-c435-4e07-8925-4c655343f529" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../p3002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p3002/src/FlashText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p3005/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap28/p2803/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap28/p2803/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,19 +14,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/p2803$Main.ic" NAME="Main Coverage Results" MODIFIED="1553566001274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+            <state relative-caret-position="419">
+              <caret line="28" column="33" lean-forward="true" selection-end-line="67" />
               <folding>
-                <element signature="e#4508#4509#0" expanded="true" />
-                <element signature="e#4558#4559#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9597">
+              <caret line="501" column="11" selection-start-line="501" selection-start-column="11" selection-end-line="501" selection-end-column="11" />
+              <folding>
+                <element signature="e#17393#17394#0" expanded="true" />
+                <element signature="e#17459#17460#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,26 +43,12 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>bfs</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Vertex.java" />
-        <option value="$PROJECT_DIR$/src/StackX.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -65,38 +65,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="p2803" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p2803" type="462c0819:PsiDirectoryNode" />
+              <item name="p3001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p3001" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="p2803" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p2803" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="p2803" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p2803" type="462c0819:PsiDirectoryNode" />
+              <item name="p3001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p3001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553568869063" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553590514298" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +103,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="p2803" />
+      <module name="p3001" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -132,18 +122,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="402df35b-926d-4e20-a311-c1d4e6ab776a" name="Default Changelist" comment="" />
-      <created>1553502154005</created>
+      <changelist id="9986839a-c435-4e07-8925-4c655343f529" name="Default Changelist" comment="" />
+      <created>1553587138583</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553502154005</updated>
+      <updated>1553587138583</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16905445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16977078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,8 +143,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3045822" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.51212937" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5444744" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4973046" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -169,7 +160,6 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.021489972" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -177,37 +167,31 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>73</line>
+          <line>16</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="StackX" language="JAVA" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>StackX</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Vertex.java" />
-    <entry file="file://$PROJECT_DIR$/src/StackX.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        <state relative-caret-position="419">
+          <caret line="28" column="33" lean-forward="true" selection-end-line="67" />
           <folding>
-            <element signature="e#4508#4509#0" expanded="true" />
-            <element signature="e#4558#4559#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9597">
+          <caret line="501" column="11" selection-start-line="501" selection-start-column="11" selection-end-line="501" selection-end-column="11" />
+          <folding>
+            <element signature="e#17393#17394#0" expanded="true" />
+            <element signature="e#17459#17460#0" expanded="true" />
           </folding>
         </state>
       </provider>
